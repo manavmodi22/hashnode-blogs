@@ -1,4 +1,4 @@
-## What is Data Standardizing?
+## What is Data Standardization?
 
  #### What is Data Standardization?
 
