@@ -1,6 +1,6 @@
-## Standardizing Data
+## What is Data Standardizing?
 
- #### What is standardization?
+ #### What is Data Standardization?
 
 It is a preprocessing method used to transform continuous data to make it look normally distributed. 
 
