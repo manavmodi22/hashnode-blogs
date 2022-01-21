@@ -27,7 +27,7 @@ print(hiking.dtypes)
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642686753805/oxrnZS0Tk.png)
 
 #### Removing Missing Data
-**Sample Data**
+##### Sample Data
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642688263433/XTS-7u0dd.png)
 
