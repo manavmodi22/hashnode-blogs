@@ -65,7 +65,7 @@ print(np.var(df[["col1","log_2"]]))
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642770825749/mNxa5rRZU5.png)
 
 
-#### What is feature scaling?
+#### What is Feature Scaling?
 
 This method is useful when 
 1. continuous features are present on different scales. 
